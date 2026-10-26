@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_ulKwkNFWEfG3Fd6i2pSiYA" label="StudioProject_MauroMarson" description="" language="java" technicalLabel="STUDIOPROJECT_MAUROMARSON" author="_ulKwkdFWEfG3Fd6i2pSiYA" productVersion="Talend Cloud Data Fabric-8.0.1.20260619_1127-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mauromarsoninfodati/Talend_Studio&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_ulKwkNFWEfG3Fd6i2pSiYA" label="StudioProject_MauroMarson" description="" language="java" technicalLabel="STUDIOPROJECT_MAUROMARSON" author="_ulKwkdFWEfG3Fd6i2pSiYA" productVersion="Talend Cloud Data Fabric-8.0.1.20260925_1301-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mauromarsoninfodati/Talend_Studio&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_ul1e8NFWEfG3Fd6i2pSiYA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_ulKwkdFWEfG3Fd6i2pSiYA" login="mauromarson@infodati_s.p.a" firstName="Mauro" lastName="Marson" type="DQ"/>
